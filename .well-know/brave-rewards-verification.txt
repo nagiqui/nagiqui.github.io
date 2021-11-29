@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: nagiqui.github.io
+Token: 71c57e4d6e9deb086276492d606cf681255d260125c668cddf1bc4da74a02d5f
