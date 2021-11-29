@@ -10,8 +10,6 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 imagesurl: "assets/img/"
 thumbsurl: "assets/thumb/"
-includes_dir        :  .well-known _includes
-
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "ScaryNagi"
 description:	       "Millenium a minimalist Jekyll theme for running a blog or publication"
