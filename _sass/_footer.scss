@@ -1,0 +1,30 @@
+
+.footer {
+  background: #222222;
+  color: #eeeeee;
+  text-align: center;
+  min-height: 56px;
+  line-height: 45px;
+
+}
+.footer a {
+  color: #eeeeee;
+  padding: 0px 10px 0px;
+  text-decoration: none;
+}
+@media (max-width: $container-width) {
+  .footer {
+    background: #222222;
+    color: $brand-color;
+    text-align: center;
+    min-height: 56px;
+    line-height: 45px;
+    width: 95vw;
+  }
+}
+.footer-description {
+  display: block;
+  margin-bottom: 1rem;	
+  color: #eeeeee;
+  font-size:0.8rem;
+}

@@ -1,0 +1,36 @@
+# Change 'comments' to true for Disqus comments
+# disqus:
+ #  comments: false
+  # : 'millennial-3'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+# google-ID: 
+
+menu:
+# {name: 'Interesting Facts',  url: 'facts'}
+#- {name: 'Learning Resources', url: 'resources'}
+- {name: 'Cards',       url: 'cards'}
+- {name: 'Misc',      url: 'misc'}
+- {name: 'Payment',              url: 'Payment'}
+- {name: 'Contact',            url: 'contact'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'twitter', link:    'https://twitter.com/NagiScary'} 
+- {icon: 'facebook', link:   'https://www.facebook.com/people/Nagi-Scar/100070218036394/'}
+- {icon: 'instagram', link:  'https://instagram.com/scaynagi'}
+- {icon: 'envelope', link:   'mailto:catastate_postbox@aleeas.com'}
+- {icon: 'shopping-cart', link:   'https://www.ebay.it/usr/scarynagi' }
+# - {icon: 'rss-square', link: 'feed.xml'}
+# - {icon: 'rss-square', link: 'rss-feed.xml'}
+
+# Customize site text
+# pagination:
+ #  next_page: 'Newer'
+  # previous_page: 'Older
+
+sharing_button_prompt: 'Feel free to share!'
+
+# related_posts: 'You may also enjoy...'
+
+# post_date_prefix: 'Written on'
